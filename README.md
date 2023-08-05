@@ -1,7 +1,5 @@
 # Rotten Movies
 
-Project for the course of Large Scale and Multi-Structured Databases
-
 _Rotten Movies_ is a web service where users can keep track of the general liking for movies,
 they can also share their thoughts with the world after signing up. In addition users can follow
 renowned top critic to be constantly updated with their latest reviews.
